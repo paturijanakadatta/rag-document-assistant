@@ -224,7 +224,7 @@ System performance was evaluated across 3 iteration cycles:
 ## Author
 
 **Janaka Datta Paturi** — Data Scientist & ML Engineer  
-[LinkedIn](https://linkedin.com/in/janaka-datta-paturi)
+[LinkedIn](www.linkedin.com/in/janaka-datta-paturi-22a995327)
 
 ---
 
